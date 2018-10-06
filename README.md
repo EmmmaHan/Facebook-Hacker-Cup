@@ -1,6 +1,8 @@
 # Facebook-Hacker-Cup 2018
 
-##Questions for the qualification round##
+- Questions for the qualification round
+
+* * * 
 
 **1. Tourist**  
 
