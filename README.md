@@ -2,13 +2,13 @@
 
 - Questions for the qualification round
 
-* * * 
 
 **1. Tourist**  
 
 Overall, Alex will want to first see attractions 1 to N in order, then see them all a second time in the same order, then all a third time in the same order, and so on. 
 If we write out an infinite sequence of attractions 1, 2, ..., N-1, N, 1, 2, ..., N-1, N, 1, ..., then Alex will see the first K attractions in this list on his first visit, the next K on his second visit, and so on. This means that, on his Vth visit, Alex will see the (K*(V-1)+i)th attraction in the list for i=1..K. We can convert each of these values into its corresponding attraction index between  1 and N using modulus, sort these indices in increasing order, and then output their corresponding attraction names in that order.
 
+* * * 
 
 **2. Interception**  
 
